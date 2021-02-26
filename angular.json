@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "BasicControlValueAccessor"
+  "defaultProject": "BasicControlValueAccessor",
+  "cli": {
+    "analytics": "642c7d1a-f188-4925-9207-bf5b4932522d"
+  }
 }
